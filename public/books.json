@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 12.99,
+      "date": "1925-04-10",
+      "genre": "Novel"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 15.99,
+      "date": "1960-07-11",
+      "genre": "Novel"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 13.99,
+      "date": "1813-01-28",
+      "genre": "Novel"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "price": 19.99,
+      "date": "1954-07-29",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "price": 14.99,
+      "date": "1979-10-12",
+      "genre": "Science Fiction"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 17.99,
+      "date": "1949-06-08",
+      "genre": "Dystopian"
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "price": 11.99,
+      "date": "1947-06-25",
+      "genre": "Autobiography"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 16.99,
+      "date": "1951-07-16",
+      "genre": "Novel"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "price": 18.99,
+      "date": "1967-05-30",
+      "genre": "Magical Realism"
+    },
+    {
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "price": 14.99,
+      "date": "1982-09-10",
+      "genre": "Novel"
+    }
+  ]
+}
